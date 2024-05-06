@@ -1,6 +1,0 @@
-Step 1: Download and install hadoop
-    Download in wedsite https://hadoop.apache.org/releases.html
-
-    Decompression file:
-        tar xvzf hadoop-3.4.0.tar.gz
-    
